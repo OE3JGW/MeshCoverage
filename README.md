@@ -7,4 +7,4 @@ This is a Flask web application that visualizes nearby Meshtastic nodes on an in
 - **Signal Quality Indicators**: Draws lines between your device and connected nodes, color-coded based on Signal-to-Noise Ratio (SNR).
 - **Real-Time Data Retrieval**: Fetches the latest node information and updates the map accordingly.
 
-- ## Use following url format to connect to it: http://localhost:5000/?host=127.0.0.1
+**Use following url format to connect to it: http://localhost:5000/?host=127.0.0.1**
